@@ -1,9 +1,1 @@
-KREILICH DIGITAL — CLOUDFLARE PAGES / GITHUB
-
-Static HTML/CSS/JS; no build command required. Cloudflare Pages framework preset: None. Build output directory: repository root (.).
-
-IMPORTANT: The quote form now opens the visitor's email application with a prefilled message. The visitor MUST tap Send in their email app. This is a fallback, not a backend submission system; it will not work for visitors without a configured email client. To accept submissions directly on the website, add a verified Cloudflare Pages Function plus an email delivery provider, or a reputable hosted form endpoint, with spam protection and an appropriate privacy notice. Do not restore Netlify Forms attributes on Cloudflare.
-
-TEST: Mobile navigation, all anchors, form validation, mailto handoff, email receipt, desktop layout, calendar display, keyboard interaction, and deployment logs. No live browser/end-to-end test was performed in this package.
-
-Portfolio concepts are illustrative, not real client work. Review pricing, business details, and hosting scope before selling services.
+Kreilich Digital Solutions — updated brand kit. Upload the contents of this folder (not the ZIP) to the root of your GitHub repository. Keep the assets folder structure. Site uses the updated metallic/teal K brand monogram. The standalone Gmail profile and business card are provided separately. The business card QR points to https://kreilich-digital-website.pages.dev/ — verify this is your correct public address before distributing. Contact form opens the visitor’s email app; it does not automatically send inquiries.
