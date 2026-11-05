@@ -1,7 +1,7 @@
-Kreilich Digital Solutions — November 2026 website revision
+Kreilich Digital Solutions — website review update
 
-Includes broader youth sports positioning, home remodeling/handyman/handywoman and roofing services, practical third-party link versus integration explanations, scope and pricing disclosures, and a more informative Formspree inquiry form.
+Changes: interactive expandable service categories; six scoped pricing options; new project-type question and revised industry question; pricing/scope protections.
 
-Deployment: upload the contents of this ZIP (index.html, styles.css, script.js, brand images, etc.) to your existing GitHub repository or deploy to Cloudflare Pages. Do not upload the ZIP as a single file to a static site root.
+Deployment: Upload the individual extracted files to the GitHub repository root, not the ZIP itself. Confirm Cloudflare Pages deployment and test the contact form. Do not overwrite the live site without checking the changes first.
 
-IMPORTANT: The Formspree endpoint was preserved from the supplied updated website. Test a real submission after deployment and verify that your business inbox receives every new field. Review mobile layout, links, and privacy wording. No live website was changed.
+Existing Formspree endpoint preserved. Do not publish sensitive customer data or private athlete information.
